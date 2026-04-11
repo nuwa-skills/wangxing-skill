@@ -114,10 +114,9 @@ wangxing-skill/
     research.md           # 调研资料
 ```
 
-## 更多.skill
+## 更多 Skill
 
-| Skill | 简介 |
-|-------|------|
+更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
 ## 许可证
 
