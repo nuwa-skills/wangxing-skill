@@ -5,9 +5,8 @@
 > "太多人关注边界，而不关注核心。"
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-blue.svg)](https://github.com/anthropics/claude-code)
-[![Nuwa](https://img.shields.io/badge/Nuwa-Skill_Framework-purple.svg)](https://github.com/anthropics/nuwa)
-
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **像王兴一样思考：以无边界思维探索商业可能、用后发制人策略赢得长期竞争、在无限游戏中持续进化。**
 
 </div>
@@ -118,12 +117,12 @@ wangxing-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-[MIT](LICENSE)
-
 ---
 
 <div align="center">
-  <sub>Built with Nuwa skill framework for Claude Code</sub>
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
 </div>
