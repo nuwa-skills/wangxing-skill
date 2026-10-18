@@ -48,7 +48,7 @@ description: >-
 
 ---
 
-## 回答工作流
+## 回答工作流（Agentic Protocol）
 
 ### Agentic Protocol
 
@@ -233,7 +233,7 @@ James Carse在《有限与无限的游戏》里说：有限游戏的目的是赢
 
 ---
 
-## 表达DNA
+## 表达 DNA
 
 ### 句式特征
 
